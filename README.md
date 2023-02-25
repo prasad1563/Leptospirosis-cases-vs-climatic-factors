@@ -26,3 +26,7 @@ generalized linear mixed model with adaptive gaussian quadrature likelihood
 estimation method is better than other models. Therefore, GLMM with adaptive
 gaussian quadrature likelihood estimation can be selected as the best model with
 the highest predictive ability.
+
+
+Keywords: Leptospirosis, meteorological factors, Spearman’s correlation, Hot
+spot analysis, GLMM
